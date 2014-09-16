@@ -1,0 +1,105 @@
+div.main {
+	background-color: #8064CD;
+	padding-top: 20px;
+	border-radius: 10px;
+}
+div.header {
+	background: url('Images/sleepy.jpg');
+	margin-left: 200px;				
+	margin-right: 200px;
+	height: 170px;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+}
+div.menu{
+	background-color: black;
+	padding: 1px;				
+	margin-left: 200px;				
+	margin-right: 200px;
+}
+div.footer {
+	margin-top: 55px;	
+	background-color: black;
+	padding: 1px;
+	height: 40px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+}
+div.things {
+	background-color: white;
+	padding: 70px;				
+	margin-left: 200px;				
+	margin-right: 200px;
+	height:300px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+}
+li.items {
+	background: url('Images/mb50_2.gif') no-repeat left top; 
+	display: inline;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	color: white;
+}
+label {
+	position:relative;
+	top: 10px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 25px;
+	color: white;
+}
+li:hover {
+	background-position: 0% -60px;
+	color: white;
+}
+img {
+	position: relative;
+	float:left;
+	padding: 10px;
+	height:300px;
+	width:300px;
+	
+}	
+.Three-Dee{
+	font-family: Garamond, serif;
+	line-height: 1em;
+	color: #fff9d6;
+	font-weight:bold;
+	font-size: 80px;
+	text-shadow:0px 0px 0 rgb(231,231,231),
+		1px 1px 0 rgb(216,216,216),
+		2px 2px 0 rgb(202,202,202),
+		3px 3px 0 rgb(187,187,187),
+		4px 4px 0 rgb(173,173,173),
+		5px 5px 0 rgb(158,158,158), 
+		6px 6px 0 rgb(144,144,144),
+		7px 7px 6px rgba(0,0,0,0.6),
+		7px 7px 1px rgba(0,0,0,0.5),
+		0px 0px 6px rgba(0,0,0,.2);
+	}
+body {
+	background-color: #90948F;
+}
+div#left {
+	position:relative;
+	top: 50px;
+	float:left;
+	width:50%;
+}
+div#image {
+	float:left; 
+	width:50%;
+}
+ul {
+	list-style-type: none;
+}
+li.hobbies {
+	font-size: 20px;
+	font-family: Times New Roman;
+	list-style-type: none;
+	padding-bottom: 20px;
+}
